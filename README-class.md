@@ -3,7 +3,7 @@ mpcs51030-2016-summer-project-viking4821 created by GitHub Classroom
 
 # Bicycles!
 
-Bicycles! app created by Andrew Lee
+Bicycles! app created by Andrew Lee (my GitHub userid at the time was viking4821)
 
 ## Acknowledgements
 
